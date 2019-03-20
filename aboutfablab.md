@@ -8,7 +8,7 @@ In the “old world”, production was thought of as something that is done only
 
 At the Wanger Family Fab Lab, production is a personal process. Modern tools enable individuals to turn their ideas into reality, even downloading products from the internet and personalizing them, whether as an original gift for a loved-one, or as a prosthetic for the disabled.
 
-# Who is Fab-Lab for?
+## Who is Fab-Lab for?
 
 Fab-Lab enables anyone at any age, to experiment in turning ideas to tangible reality.
  
