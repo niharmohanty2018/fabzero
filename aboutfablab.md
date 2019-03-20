@@ -1,4 +1,4 @@
-# What is a Fab-Lab?
+## What is a Fab-Lab?
 
 Fab Lab - Digital Fabrication Laboratory, is a place where anyone can make (almost) anything, using digital design, 3D printers, laser cutting and other advanced technological means.
 
