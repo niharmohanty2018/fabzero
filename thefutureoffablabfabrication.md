@@ -15,3 +15,5 @@ Now there’s Lass’ law—the prediction that the number of fab labs, or such 
 If Lass’ law continues, custom fabrication will explode. In roughly a decade we will have a million fab labs. In 30 years it will be a trillion; they will be as omnipresent as the electronic devices currently scattered around your home.
 
 Yowza. Let’s suspend disbelief and assume this actually happens. How would it change life?
+
+# [Go to Home] (README.md)
