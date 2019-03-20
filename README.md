@@ -1,7 +1,9 @@
-# fabzero
+# Welcome to FabLab
 
-Welcome to the fabzero wiki!
-# TUTORIAL FOR DAY1, 18.03.2019
+Fab Lab - Digital Fabrication Laboratory, is a place where anyone can make (almost) anything, using digital design, 3D printers, laser cutting and other advanced technological means.
+In its essence, Fab-Lab is about turning ideas into a reality. All planning, design, production and fabrication processes are done in one place, to create one unique product. All you need to bring with you is an idea, and MadaTech’s Fab-Lab supplies the tools and the guidance to bring it to fruition.
+In the “old world”, production was thought of as something that is done only by professionals. Factories were seen as busy, dangerous places for the inexperienced. Most of all, each product was duplicated by hundreds, if not thousands.
+At the Wanger Family Fab Lab, production is a personal process. Modern tools enable individuals to turn their ideas into reality, even downloading products from the internet and personalizing them, whether as an original gift for a loved-one, or as a prosthetic for the disabled.
 
 
 Initially tutor explained there are two equipment rooms
