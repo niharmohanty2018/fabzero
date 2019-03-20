@@ -16,4 +16,4 @@ If Lass’ law continues, custom fabrication will explode. In roughly a decade w
 
 Yowza. Let’s suspend disbelief and assume this actually happens. How would it change life?
 
-# [Go to Home] (README.md)
+[Go to Home] (README.md)
