@@ -15,5 +15,7 @@ In 2014, we launched our first Additive Manufacturing Machine and a new Subtract
 With both additive and subtractive 3D tools to choose from in desktop configurations, people are now able to make the most of their creativity like never before.
 
 It is a machine to perform small fabrics with resolution of 1 micron.
+
 The build plate is 1x3/32 mm 
+
 The milling tool can perform 2 port cutting, 4 port cutting and could be flat nose or balled nose.
