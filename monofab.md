@@ -1,5 +1,3 @@
-# History
-
 ## Background
 
 In the early 1980’s, the world was experiencing a rapid evolution in personal computers and digital technology. At Roland DG, we realized that the computer was essentially a large brain, and that by attaching peripherals to serve as human hands, we could help people rediscover the original joy of creation and close the gap between the virtual and real worlds. This insight contributed to the very origin of our business.
